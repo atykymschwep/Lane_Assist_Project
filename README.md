@@ -118,17 +118,14 @@ Clone the repository and build the project locally:
 ```bash
 git clone 
 https://github.com/atykymschwep/Lane_Assist_Project.git
-
 cd lane_detection
 
 mkdir build
 cd build
 
 cmake ..
-make -j$(nproc)
+make
 ```
-
-Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
 
 ---
 
