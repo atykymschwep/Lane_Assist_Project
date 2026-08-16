@@ -116,8 +116,7 @@ lane_detection/
 Clone the repository and build the project locally:
 
 ```bash
-git clone 
-https://github.com/atykymschwep/Lane_Assist_Project.git
+git clone https://github.com/atykymschwep/Lane_Assist_Project.git
 cd lane_detection
 
 mkdir build
